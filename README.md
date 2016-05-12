@@ -1,5 +1,3 @@
-# artifactId
-
 ## Requirements
 
 Building the API client library requires [Maven](https://maven.apache.org/) to be installed.
@@ -36,8 +34,4 @@ After the client library is installed/deployed, you can use it in your Maven pro
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issue.
 
-## Author
-
-
-
-
+Example code located at src/main/java/tr/com/epias/web/test/run/Main.java file
