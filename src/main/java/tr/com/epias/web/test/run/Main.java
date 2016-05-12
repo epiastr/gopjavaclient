@@ -48,12 +48,12 @@ import tr.com.epias.web.test.gen.model.ServiceRegionRequest;
 
 public class Main {
 
-	private static final String USERNAME = "PK195";
-	private static final String PASSWORD = "PK195";
-	private static final String CAS_URL = "https://cas-test.epias.com.tr/cas/v1/tickets?format=text";
-	private static final String CAS_SERVICE_NAME = "https://gop-test.epias.com.tr";
-	private static final String CAS_ST_URL = "https://cas-test.epias.com.tr/cas/v1/tickets";
-	private static final String BASE_PATH = "https://gop-test.epias.com.tr/gop-servis/rest";
+	private static final String USERNAME = "YOURUSERNAME";
+	private static final String PASSWORD = "YOURPASSWORD";
+	private static final String CAS_URL = "https://cas.epias.com.tr/cas/v1/tickets?format=text";
+	private static final String CAS_SERVICE_NAME = "https://goptest.epias.com.tr";
+	private static final String CAS_ST_URL = "https://cas.epias.com.tr/cas/v1/tickets";
+	private static final String BASE_PATH = "https://goptest.epias.com.tr/gop-servis/rest";
 
 	public static void main(String[] args) {
 
